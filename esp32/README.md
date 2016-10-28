@@ -1,5 +1,3 @@
-# esp8266board
-Node MCU<br />
-Witty<br />
-<hr />
-<b>oeESP.h</b> <i>//octopus engine - lib. for Witty board (ESP8266)</i>
+#ESP 32
+
+WiFi + Bluetooth ESP32 Dual-core CPU So Top With Low Power Consumption MCU Series ESP-32S Module
