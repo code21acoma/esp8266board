@@ -2,7 +2,9 @@ Witty<br />
 <br />
 JSON http://blog.nyl.io/esp8266-led-arduino/<br />
 <br />
-testy září/říjen 2016<br />
+<h3>testy září/říjen 2016</h3><br />
+vytvořena jednoduchá knihovna nastavení + LED <b>oeESP.h</b><br />
+další knihovna řeší wifi připojení a spol. <b>oeESP.h</b><br />
 
 <b>wifi_sentu-led2-json</b><br />
 na serveru - JSON file<br />
